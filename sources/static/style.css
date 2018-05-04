@@ -1,0 +1,12 @@
+body {
+    background-color: #cec;
+}
+
+.container {
+    max-width: 350px;
+}
+
+img.small {
+    max-width: 75px;
+    max-height: 75px;
+}

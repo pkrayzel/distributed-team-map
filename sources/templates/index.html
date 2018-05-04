@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Our team</title>
+
+    <style>
+      #googleMap {
+        height: 100%;
+      }
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+</head>
+
+<body>
+
+    <div id="googleMap"></div>
+    <script type="text/javascript" src="static/style.js"></script>
+    <script type="text/javascript" src="static/markers.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script>
+
+    </script>
+    <script>
+    var map;
+    var employees;
+
+    function myMap() {
+        $.getJSON("/data/employees.json", function(data) {
+            console.log(data);
+            map = new google.maps.Map(document.getElementById('googleMap'), {
+                <!--these are coordinates of zurich as it's somehow in the center of our locations -->
+                center: { "lat": 47.3769, "lng": 8.5417},
+                zoom:4,
+                mapTypeControl: false
+            });
+
+            map.setOptions({styles: styles["retro"]});
+
+            setMarkers(map, data)
+        });
+    }
+
+    </script>
+    <script src="https://googlemaps.github.io/js-marker-clusterer/src/markerclusterer.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB_IZwAToW3NK5HXX3NVdhGDErmRiuIURI&callback=myMap"></script>
+
+
+</body>
+
+</html>

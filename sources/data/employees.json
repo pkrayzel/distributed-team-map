@@ -1,0 +1,258 @@
+[
+  {
+    "display_name": "Pavel Krayzel",
+    "first_name": "Pavel",
+    "last_name": "Krayzel",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U8Q96NJSJ-11dbd7e88080-72",
+    "role": "Team Lead",
+    "email": "pavel.krayzel@made.com",
+    "phone_number": "+420606635805",
+    "office_location": {
+      "latitude": 50.1426,
+      "longitude": 14.3185
+    },
+    "squad": "Warehouse Stream"
+  },
+  {
+    "display_name": "Christian Barra",
+    "first_name": "Christian",
+    "last_name": "Barra",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U8NPGUV5W-5b1bb3a0d722-72",
+    "role": "Developer",
+    "email": "christian.barra@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 52.5200,
+      "longitude": 13.4050
+    },
+    "squad": "Warehouse Stream"
+  },
+  {
+    "display_name": "Teofil Achirei",
+    "first_name": "Teofil",
+    "last_name": "Achirei",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U8NNZ0LC8-ffed19cf2ef1-72",
+    "role": "Developer",
+    "email": "teofil.achirei@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 47.1585,
+      "longitude": 27.6014
+    },
+    "squad": "General BO"
+  },
+  {
+    "display_name": "James Gough",
+    "first_name": "James",
+    "last_name": "Gough",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-UAG3CSY0L-905855c1be5d-72",
+    "role": "Developer",
+    "email": "james.gough@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 53.602228,
+      "longitude": -6.439665
+    },
+    "squad": "Warehouse Stream"
+  },
+  {
+    "display_name": "Ioulia Anastasiadou",
+    "first_name": "Ioulia",
+    "last_name": "Anastasiadou",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-UAG565ULB-gb59e16e8f21-72",
+    "role": "QA",
+    "email": "ioulia.anastasiadou@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 40.6401,
+      "longitude": 22.9444
+    },
+    "squad": "System-B"
+  },
+
+  {
+    "display_name": "Marta Gonzalez Ferrero",
+    "first_name": "Marta",
+    "last_name": "Ferrero",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U0AMKMS67-1ff4ca7f1c69-72",
+    "role": "QA Team Lead",
+    "email": "marta.ferrero@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 51.526021,
+      "longitude": -0.084966
+    },
+    "squad": "System-B"
+  },
+  {
+    "display_name": "Csaba Palankai",
+    "first_name": "Csaba",
+    "last_name": "Palankai",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U08C8HU6N-8c9522c157f6-72",
+    "role": "Developer",
+    "email": "csaba.palankai@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 51.526124,
+      "longitude": -0.084966
+    },
+    "squad": "System B"
+  },
+
+  {
+    "display_name": "Zainab Abdulkarim",
+    "first_name": "Zaianb",
+    "last_name": "Abdulkarim",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U9FQ8KZTR-g6b7f05015e2-72",
+    "role": "QA",
+    "email": "zainab.abdulkarim@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 51.526104,
+      "longitude": -0.085034
+    },
+    "squad": "Warehouse Stream"
+  },
+  {
+    "display_name": "Chris Cole",
+    "first_name": "Chris",
+    "last_name": "Cole",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U1JBSA98U-g274a22f981f-72",
+    "role": "QA",
+    "email": "chris.cole@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 51.526071,
+      "longitude": -0.084916
+    },
+    "squad": "General BO"
+  },
+  {
+    "display_name": "Edgaras Poplavskis",
+    "first_name": "Edgaras",
+    "last_name": "Poplavskis",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U792LL3HC-g5d14d471da4-72",
+    "role": "Developer",
+    "email": "edgaras.poplavskis@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 51.526093,
+      "longitude": -0.084918
+    },
+    "squad": "Warehouse Stream"
+  },
+
+  {
+    "display_name": "Reece Long",
+    "first_name": "Reece",
+    "last_name": "Long",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U5RE8QSMV-gcdfd863e9b0-72",
+    "role": "Developer",
+    "email": "reece.long@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 51.526091,
+      "longitude": -0.084966
+    },
+    "squad": "Warehouse Stream"
+  },
+  {
+    "display_name": "Ian Grundy",
+    "first_name": "Ian",
+    "last_name": "Grundy",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U08CEGVKP-162a2f047592-72",
+    "role": "Product Owner",
+    "email": "ian.grundy@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 51.526147,
+      "longitude": -0.084885
+    },
+    "squad": "PO"
+  },
+  {
+    "display_name": "John Lee",
+    "first_name": "John",
+    "last_name": "Lee",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U08GFBQEL-gb465fff9ae6-72",
+    "role": "Developer",
+    "email": "john.lee@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 51.526187,
+      "longitude": -0.084935
+    },
+    "squad": "System B"
+  },
+  {
+    "display_name": "Jon Bramley",
+    "first_name": "Jon",
+    "last_name": "Bramley",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U1DA9AKT3-adfcb2710980-72",
+    "role": "Team Lead",
+    "email": "jon.bramley@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 51.525767,
+      "longitude": -0.084783
+    },
+    "squad": "System B"
+  },
+
+  {
+    "display_name": "Roman Tomjak",
+    "first_name": "Roman",
+    "last_name": "Tomjak",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U915WFP3R-e3f5f75403e1-72",
+    "role": "Developer",
+    "email": "roman.tomjak@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 51.525859,
+      "longitude": -0.084961
+    },
+    "squad": "General BO"
+  },
+  {
+    "display_name": "Harry Percival",
+    "first_name": "Harry",
+    "last_name": "Percival",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U9J0GH788-d2a1bb449d95-72",
+    "role": "Developer",
+    "email": "harry.percival@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 51.525800,
+      "longitude": -0.084936
+    },
+    "squad": "General BO"
+  },
+  {
+    "display_name": "Gilberto Goncalves",
+    "first_name": "Gilberto",
+    "last_name": "Goncalves",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U1JC38CJU-0f502caf08f1-72",
+    "role": "Team Lead",
+    "email": "gilberto.concalves@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 51.525750,
+      "longitude": -0.084900
+    },
+    "squad": "General BO"
+  },
+  {
+    "display_name": "Alexandra Nechita",
+    "first_name": "Alexandra",
+    "last_name": "Nechita",
+    "image_url": "https://ca.slack-edge.com/T08C8D2HH-U09DSKD8D-g3b98ac360ef-72",
+    "role": "Product Owner",
+    "email": "alexandra.nechita@made.com",
+    "phone_number": "",
+    "office_location": {
+      "latitude": 51.525690,
+      "longitude": -0.084876
+    },
+    "squad": "PO"
+  }
+]
